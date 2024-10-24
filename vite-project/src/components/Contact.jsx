@@ -2,8 +2,6 @@ import { Button, Card , TextField, TextareaAutosize, Typography} from "@mui/mate
 import { useState } from "react";
 
 function Contact() {
- 
- 
   const [name, setName] = useState("")
   const [email, setEmail] = useState("")
   const [subject, setSubject] = useState("") 

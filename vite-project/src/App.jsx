@@ -5,6 +5,7 @@ import Portfolio from './components/Portfolio';
 import Services from './components/Services';
 import Contact from './components/Contact';
 import Navbar from './components/Navbar';
+
 import './App.css'
 
 function App() {
